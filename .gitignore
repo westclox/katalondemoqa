@@ -1,0 +1,13 @@
+.gradle
+/bin
+/libs
+.Test Cases/Debug
+.settings
+.classpath
+/.cache/
+/.svn
+/Reports
+output
+!output/.gitkeep
+build
+.project
